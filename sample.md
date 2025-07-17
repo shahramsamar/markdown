@@ -93,3 +93,18 @@ image
 | 9     | 10    | 11    | 12    |
 
 ---
+# Details and summary
+<details>
+<summary>Show</summary>
+<ul>
+<li>menu 1</li>
+<li>menu 2</li>
+<li>menu 3</li>
+<li><details> <summary>menu 4</summary>
+<ul>
+<li>menu 4.1</li>
+<li>menu 4.2</li>
+<li>menu 4.3</li>
+</ul></details></li>
+</ul>
+</details>
