@@ -6,7 +6,7 @@
 ###### Heading 6
 
 
-<H1>Heading 1</H1>
+<H1 id='doc'>Heading 1</H1>
 <H2>Heading 2</H2>
 <H3>Heading 3</H3>
 <H4>Heading 4</H4>
@@ -31,8 +31,9 @@
 ---
 1. order menu 1
 2. order menu 2
-    3. order menu 3
-        4. order menu 4
+    1. order menu 2
+    2. order menu 2
+4. order menu 4
 ---
 # Highlight
 - This code is `python`
@@ -52,4 +53,32 @@ print("Hello World")
 
 > Hello, I'm **Shahram Samar**.
 >> I'm a `backend developer`.
+---
+# links and image 
+---
+links
+---
+[My Github](https://github.com/shahramsamar)
+
+- Html tag : <a href="https://github.com/shahramsamar">My Github</a>
+
+- Md code : [My Github](https://github.com/shahramsamar)
+
+- link to some part of the document : <a href="#doc">Go to doc</a>
+
+---
+image
+---
+- ![My Github](https://avatars.githubusercontent.com/u/103860684?v=4)
+
+- <image src="https://avatars.githubusercontent.com/u/103860684?v=4" width="100px" height="100px" />
+
+- ![My Github](https://avatars.githubusercontent.com/u/103860684?v=4)
+
+
+- Html tag : <img src="https://avatars.githubusercontent.com/u/103860684?v=4" width="100px" height="100px" />
+
+
+- [<image src="https://avatars.githubusercontent.com/u/103860684?v=4" width="100px" height="100px" />](https://google.com)
+
 ---
