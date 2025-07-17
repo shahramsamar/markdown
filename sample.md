@@ -34,3 +34,22 @@
     3. order menu 3
         4. order menu 4
 ---
+# Highlight
+- This code is `python`
+- This code is __Bold__. **python**
+- This code is _Italic_. *python*
+- This code is __Bold and italic__. ***python***   
+
+```diff
+- This code has removed.
+
++ This code has added.
+```
+
+```python
+print("Hello World")
+```
+
+> Hello, I'm **Shahram Samar**.
+>> I'm a `backend developer`.
+---
