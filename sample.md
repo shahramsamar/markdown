@@ -82,3 +82,14 @@ image
 - [<image src="https://avatars.githubusercontent.com/u/103860684?v=4" width="100px" height="100px" />](https://google.com)
 
 ---
+
+
+# table
+
+| col 1 | col 2 | col 3 | col 4 |
+| ----- | ----- | ----- | ----- |
+| 1     | 2     | 3     | 4     |
+| 5     | 6     | 7     | 8     |
+| 9     | 10    | 11    | 12    |
+
+---
